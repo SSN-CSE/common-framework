@@ -33,11 +33,8 @@ for the solution of complex engineering problems.
 | 1.1 | Demonstrate competence in mathematical modelling.                          | 1.1.1 | Apply the knowledge of discrete structures, linear algebra, statistics, and numerical techniques to solve problems                                |
 |     |                                                                            | 1.1.2 | Apply the concepts of probability, statistics and queuing theory in modelling of computer-based system, data and network protocols.               |
 | 1.2 | Demonstrate competence in basic sciences                                   | 1.2.1 | Apply laws of natural science to a complex engineering problem                                                                                    |
-|     |                                                                            |       | Apply laws of physics, chemistry to an engineering problem                                                                                        |
 | 1.3 | Demonstrate competence in engineering fundamentals                         | 1.3.1 | Apply engineering fundamentals.                                                                                                                   |
-|     |                                                                            |       | Apply the knowledge of data structures, algorithms, databases, operating systems, networks and programming to solve a complex engineering problem |
 | 1.4 | Demonstrate competence in specialized engineering knowledge to the program | 1.4.1 | Apply theory and principles of computer science and engineering to solve an engineering problem                                                   |
-|     |                                                                            |       | Apply the knowledge of distributed computing, machine learning and software engineering to solve a complex engineering problem                    |
 
 
 PO2: *Problem analysis*: Identify, formulate, research literature, and
