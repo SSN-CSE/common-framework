@@ -1,0 +1,55 @@
+#+title: COMMON FRAMEWORK
+
+* Common Framework
+- Agencies
+  - NBA
+  - AICTE Examination Reforms Report
+  - SSN
+  
+- PO/PSO and Performance Indicators
+  - Competencies
+  - Performance Indicators
+    
+- CO to PO/PSO Mapping
+  
+- Course PO Attainment
+  - Target
+  - Thresholds
+    
+- Program PO Attainement
+  - Direct PO attainment
+  - Indirect PO attainment
+    
+- Continous Quality Improvement
+  - Course level
+  - Program level
+
+* PO/PSO and Performance Indicators
+PO 1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering
+specialisation for the solution of complex engineering problems.
+| Competency                 | Indicators                                                                                                                                                |
+|----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.2 Demonstrate competence | 1.2.1 Apply the knowledge of discrete structures, linear algebra, statistics and numerical in mathematical modelling techniques to solve problems         |
+|                            | 1.2.2 Apply the concepts of probability, statistics and queuing theory in modeling of computer-based system, data and network protocols.                  |
+| 1.5 Demonstrate competence | 1.5.1 Apply laws of natural science to an engineering problem in basic sciences                                                                           |
+| 1.6 Demonstrate competence | 1.6.1 Apply engineering fundamentals in engineering fundamentals                                                                                          |
+| 1.7 Demonstrate competence | 1.7.1 Apply theory and principles of computer science and engineering to solve an in specialized engineering engineering problem knowledge to the program |
+
+PO 2: Problem analysis: Identify, formulate, research literature, and analyse complex engineering problems reaching
+substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+| Competency                                                                                         | Indicators                                                                                                                           |
+|----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------|
+| 2.1 Demonstrate an ability                                                                         | 2.5.1 Evaluate problem statements and identifies objectives to identify and formulate                                                |
+|                                                                                                    | 2.5.2 Identify processes/modules/algorithms of a computer-based system and complex engineering parameters to solve a problem problem |
+|                                                                                                    | 2.5.3 Identify mathematical algorithmic knowledge that applies to a given problem                                                    |
+| 2.6 Demonstrate an ability to formulate a solution plan and methodology for an engineering problem | 2.6.1 Reframe the computer-based system into interconnected subsystems                                                               |
+|                                                                                                    | 2.6.2 Identify functionalities and computing resources.                                                                              |
+|                                                                                                    | 2.6.3 Identify existing solution/methods to solve the problem, including forming justifiedapproximations and assumptions             |
+|                                                                                                    | 2.6.4 Compare and contrast alternative solution/methods to select the best methods                                                   |
+|                                                                                                    | 2.6.5 Compare and contrast alternative solution processes to select the best process.                                                |
+| 2.7 Demonstrate an ability to formulate and interpret a model                                      | 2.7.1 Able to apply computer engineering principles to formulate modules of a system with required applicability and performance.    |
+|                                                                                                    | 2.7.2 Identify design constraints for required performance criteria.                                                                 |
+| 2.8 Demonstrate an ability to execute a solution process and analyze results                       | 2.8.1 Applies engineering mathematics to implement the solution.                                                                     |
+|                                                                                                    | 2.8.2 Analyze and interpret the results using contemporary tools.                                                                    |
+|                                                                                                    | 2.8.3 Identify the limitations of the solution and sources/causes.                                                                   |
+|                                                                                                    | 2.8.4 Arrive at conclusions with respect to the objectives.                                                                          |
