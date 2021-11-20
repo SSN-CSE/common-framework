@@ -219,10 +219,11 @@ high quality software systems using contemporary computing paradigms.
 
 PSO3: Adopt emerging information processing technologies for producing
 innovative solutions to current societal problems.
-|      | Competency                                                                                                           |        | Indicators                                                                                                         |
-|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
-| 15.1 | Demonstrate the ability to acquire knowledge of new information processing technologies | 15.1.1 | Identify emerging technologies                                    |   |   | 15.1.2 | Adopt emerging technologies and techniques for solving existing problems |
-| 15.2 | Demonstrate the ability to innovate solutions                                           | 15.2.1 | Create novel solutions for problems                               |   |   |        |                                                                          |
-|      |                                                                                         | 15.2.2 | Evolve optimal solutions for problems                             |   |   |        |                                                                          |
-| 15.3 | Demonstrate and understand the concern for societal problems                            | 15.3.1 | Identify socially relevant problems                               |   |   |        |                                                                          |
-|      |                                                                                         | 15.3.2 | Develop solutions for current and future scenarios in the society |   |   |        |                                                                          |
+|      | Competency                                                                              |        | Indicators                                                               |
+|------+-----------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------|
+| 15.1 | Demonstrate the ability to acquire knowledge of new information processing technologies | 15.1.1 | Identify emerging technologies                                           |
+|      |                                                                                         | 15.1.2 | Adopt emerging technologies and techniques for solving existing problems |
+| 15.2 | Demonstrate the ability to innovate solutions                                           | 15.2.1 | Create novel solutions for problems                                      |
+|      |                                                                                         | 15.2.2 | Evolve optimal solutions for problems                                    |
+| 15.3 | Demonstrate and understand the concern for societal problems                            | 15.3.1 | Identify socially relevant problems                                      |
+|      |                                                                                         | 15.3.2 | Develop solutions for current and future scenarios in the society        |
