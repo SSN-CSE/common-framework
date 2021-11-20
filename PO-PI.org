@@ -25,31 +25,219 @@
   - Program level
 
 * PO/PSO and Performance Indicators
-PO 1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering
-specialisation for the solution of complex engineering problems.
-| Competency                 | Indicators                                                                                                                                                |
-|----------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.2 Demonstrate competence | 1.2.1 Apply the knowledge of discrete structures, linear algebra, statistics and numerical in mathematical modelling techniques to solve problems         |
-|                            | 1.2.2 Apply the concepts of probability, statistics and queuing theory in modeling of computer-based system, data and network protocols.                  |
-| 1.5 Demonstrate competence | 1.5.1 Apply laws of natural science to an engineering problem in basic sciences                                                                           |
-| 1.6 Demonstrate competence | 1.6.1 Apply engineering fundamentals in engineering fundamentals                                                                                          |
-| 1.7 Demonstrate competence | 1.7.1 Apply theory and principles of computer science and engineering to solve an in specialized engineering engineering problem knowledge to the program |
+PO1: *Engineering knowledge*: Apply the knowledge of mathematics,
+science, engineering fundamentals, and an engineering specialisation
+for the solution of complex engineering problems.
+|     | Competency                                                                 |       | Indicators                                                                                                                                        |
+|-----+----------------------------------------------------------------------------+-------+---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1 | Demonstrate competence in mathematical modelling.                          | 1.1.1 | Apply the knowledge of discrete structures, linear algebra, statistics, and numerical techniques to solve problems                                |
+|     |                                                                            | 1.1.2 | Apply the concepts of probability, statistics and queuing theory in modelling of computer-based system, data and network protocols.               |
+| 1.2 | Demonstrate competence in basic sciences                                   | 1.2.1 | Apply laws of natural science to a complex engineering problem                                                                                    |
+|     |                                                                            |       | Apply laws of physics, chemistry to an engineering problem                                                                                        |
+| 1.3 | Demonstrate competence in engineering fundamentals                         | 1.3.1 | Apply engineering fundamentals.                                                                                                                   |
+|     |                                                                            |       | Apply the knowledge of data structures, algorithms, databases, operating systems, networks and programming to solve a complex engineering problem |
+| 1.4 | Demonstrate competence in specialized engineering knowledge to the program | 1.4.1 | Apply theory and principles of computer science and engineering to solve an engineering problem                                                   |
+|     |                                                                            |       | Apply the knowledge of distributed computing, machine learning and software engineering to solve a complex engineering problem                    |
 
-PO 2: Problem analysis: Identify, formulate, research literature, and analyse complex engineering problems reaching
-substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
-| Competency                                                                                         | Indicators                                                                                                                           |
-|----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------|
-| 2.1 Demonstrate an ability                                                                         | 2.5.1 Evaluate problem statements and identifies objectives to identify and formulate                                                |
-|                                                                                                    | 2.5.2 Identify processes/modules/algorithms of a computer-based system and complex engineering parameters to solve a problem problem |
-|                                                                                                    | 2.5.3 Identify mathematical algorithmic knowledge that applies to a given problem                                                    |
-| 2.6 Demonstrate an ability to formulate a solution plan and methodology for an engineering problem | 2.6.1 Reframe the computer-based system into interconnected subsystems                                                               |
-|                                                                                                    | 2.6.2 Identify functionalities and computing resources.                                                                              |
-|                                                                                                    | 2.6.3 Identify existing solution/methods to solve the problem, including forming justifiedapproximations and assumptions             |
-|                                                                                                    | 2.6.4 Compare and contrast alternative solution/methods to select the best methods                                                   |
-|                                                                                                    | 2.6.5 Compare and contrast alternative solution processes to select the best process.                                                |
-| 2.7 Demonstrate an ability to formulate and interpret a model                                      | 2.7.1 Able to apply computer engineering principles to formulate modules of a system with required applicability and performance.    |
-|                                                                                                    | 2.7.2 Identify design constraints for required performance criteria.                                                                 |
-| 2.8 Demonstrate an ability to execute a solution process and analyze results                       | 2.8.1 Applies engineering mathematics to implement the solution.                                                                     |
-|                                                                                                    | 2.8.2 Analyze and interpret the results using contemporary tools.                                                                    |
-|                                                                                                    | 2.8.3 Identify the limitations of the solution and sources/causes.                                                                   |
-|                                                                                                    | 2.8.4 Arrive at conclusions with respect to the objectives.                                                                          |
+
+PO2: *Problem analysis*: Identify, formulate, research literature, and
+analyse complex engineering problems reaching substantiated
+conclusions using first principles of mathematics, natural sciences,
+and engineering sciences.
+|     | Competency                                                                                          |       | Indicators                                                                                                                  |
+|-----+-----------------------------------------------------------------------------------------------------+-------+-----------------------------------------------------------------------------------------------------------------------------|
+| 2.1 | Demonstrate an ability to identify and formulate complex engineering problem                        | 2.1.1 | Evaluate problem statements and identifies objectives                                                                       |
+|     |                                                                                                     |       | Articulate problem statements and identify objectives                                                                       |
+|     |                                                                                                     | 2.1.2 | Identify processes/modules/algorithms of a computer-based system and parameters to solve a problem                          |
+|     |                                                                                                     |       | Identify input and output parameters, constraints to solve a complex engineering problem                                    |
+|     |                                                                                                     | 2.1.3 | Identify mathematical algorithmic knowledge that applies to a given problem                                                 |
+|     |                                                                                                     |       | Identify mathematical, engineering and scientific knowledge that applies to a complex engineering problem                   |
+| 2.2 | Demonstrate an ability to formulate a solution plan and methodology for an engineering problem      | 2.2.1 | Reframe the computer-based system into interconnected subsystems                                                            |
+|     |                                                                                                     | 2.2.2 | Identify functionalities and computing resources.                                                                           |
+|     |                                                                                                     | 2.2.3 | Identify existing solution/methods to solve the problem, including forming justified approximations and assumptions         |
+|     |                                                                                                     | 2.2.4 | Compare and contrast alternative solution/methods to select the best methods                                                |
+|     |                                                                                                     | 2.2.5 | Compare and contrast alternative solution processes to select the best process                                              |
+|     | Demonstrate an ability to  research existing literature  and methodology for an engineering problem |       |                                                                                                                             |
+| 2.3 | Demonstrate an ability to formulate and interpret a model                                           | 2.3.1 | Able to apply computer engineering principles to formulate modules of a system with required applicability and performance. |
+|     |                                                                                                     |       | Able to apply computer engineering principles to interpret existing models and their applicability and performance.         |
+|     |                                                                                                     | 2.3.2 | Identify design constraints for required performance criteria.                                                              |
+|     | Demonstrate an ability to interpret  existing models                                                |       |                                                                                                                             |
+|     |                                                                                                     |       |                                                                                                                             |
+| 2.4 | Demonstrate an ability to execute a solution process and analyze results                            | 2.4.1 | Applies engineering mathematics to implement the solution                                                                   |
+|     |                                                                                                     | 2.4.2 | Analyze and interpret the results using contemporary tools                                                                  |
+|     |                                                                                                     |       | Analyze and interpret the results of existing solutions using contemporary tools                                            |
+|     |                                                                                                     | 2.4.3 | Identify the limitations of the solution and sources/causes                                                                 |
+|     |                                                                                                     |       | Identify the limitations of the existing solution and sources/causes                                                        |
+|     |                                                                                                     | 2.4.4 | Arrive at conclusions with respect to the objectives                                                                        |
+|     | Demonstrate an ability to analyse existing solutions  and  analyze their results                    |       |                                                                                                                             |
+
+PO3: *Design/Development of solutions*: Design solutions for complex
+engineering problems and design system components or processes that
+meet the specified needs with appropriate consideration for public
+health and safety, and cultural, societal, and environmental
+considerations.
+|     | Competency                                                                                                                                                             |       | Indicators                                                                                                           |
+|-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------+----------------------------------------------------------------------------------------------------------------------|
+| 3.1 | Demonstrate an ability to define a complex/ open-ended problem in engineering terms                                                                                    | 3.1.1 | Able to define a precise problem statement with objectives and scope.                                                |
+|     |                                                                                                                                                                        | 3.1.2 | Able to identify and document system requirements from stake- holders.                                               |
+|     |                                                                                                                                                                        | 3.1.3 | Able to review state-of-the-art literature to synthesize system requirements                                         |
+|     |                                                                                                                                                                        | 3.1.4 | Able to choose appropriate quality attributes as defined by ISO/IEC/IEEE standard.                                   |
+|     |                                                                                                                                                                        | 3.1.5 | Explore and synthesize system requirements from larger social and professional concerns.                             |
+|     |                                                                                                                                                                        | 3.1.6 | Able to develop software requirement specifications (SRS).                                                           |
+| 3.2 | Demonstrate an ability to generate a diverse set of alternative design solutions                                                                                       | 3.2.1 | Able to explore design alternatives.                                                                                 |
+|     |                                                                                                                                                                        | 3.2.2 | Able to produce a variety of potential design solutions suited to meet functional requirements                       |
+|     |                                                                                                                                                                        | 3.2.3 | Identify suitable non-functional requirements for evaluation of alternate design solutions.                          |
+| 3.3 | Demonstrate an ability to select optimal design scheme for further development                                                                                         | 3.3.1 | Able to perform systematic evaluation of the degree to which several design concepts meet the criteria.              |
+|     |                                                                                                                                                                        | 3.3.2 | Consult with domain experts and stakeholders to select candidate engineering design solution for further development |
+| 3.4 | Demonstrate an ability to advance an engineering design to defined end state                                                                                           | 3.4.1 | Able to refine architecture design into a detailed design within the existing constraints.                           |
+|     |                                                                                                                                                                        | 3.4.2 | Able to implement and integrate the modules.                                                                         |
+|     |                                                                                                                                                                        | 3.4.3 | Able to verify the functionalities and validate the design                                                           |
+|     | Demonstrate an ability to complete the deign by integrating the sub systems (Identify few courses and add COs that map to PO3 -- SE, ML, DS, CC,  AI, FDS,  OOAD, OOPS) |       |                                                                                                                      |
+
+PO4: *Conduct investigations of complex problems*: Use research-based
+knowledge and research methods including design of experiments,
+analysis and interpretation of data, and synthesis of the information
+to provide valid conclusions.
+|     | Competency                                                                                                                      |       | Indicators                                                                                                                              |
+|-----+---------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------------------------------------------------------------------------------------------------------|
+| 4.1 | Demonstrate an ability to conduct investigations of technical issues consistent with their level of knowledge and understanding | 4.1.1 | Define a problem for purposes of investigation, its scope and importance                                                                |
+|     |                                                                                                                                 | 4.1.2 | Able to choose appropriate procedure/algorithm, dataset and test cases.                                                                 |
+|     |                                                                                                                                 | 4.1.3 | Able to choose appropriate hardware/software tools to conduct the experiment.                                                           |
+|     | Demonstrate an ability to conduct investigations of experiments                                                                 |       |                                                                                                                                         |
+| 4.2 | Demonstrate an ability to design experiments to solve open-ended problems                                                       | 4.2.1 | Design and develop appropriate procedures/methodologies based on the study objectives                                                   |
+| 4.3 | Demonstrate an ability to analyze data and reach a valid conclusion                                                             | 4.3.1 | Use appropriate procedures, tools and techniques to collect and analyze data                                                            |
+|     |                                                                                                                                 | 4.3.2 | Critically analyze data for trends and correlations, stating possible errors and limitations                                            |
+|     |                                                                                                                                 | 4.3.3 | Represent data (in tabular and/or graphical forms) so as to facilitate analysis and explanation of the data, and drawing of conclusions |
+|     |                                                                                                                                 | 4.3.4 | Synthesize information and knowledge about the problem from the raw data to reach appropriate conclusions                               |
+
+PO5: *Modern tool usage*: Create, select, and apply appropriate
+techniques, resources, and modern engineering and IT tools including
+prediction and modelling to complex engineering activities with an
+understanding of the limitations.
+|     | Competency                                                                                                       |       | Indicators                                                                                                                                                                               |
+|-----+------------------------------------------------------------------------------------------------------------------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5.1 | Demonstrate an ability to identify/create modern engineering tools, techniques and resources                     | 5.1.1 | Identify modern engineering tools, techniques and resources for engineering activities                                                                                                   |
+|     |                                                                                                                  | 5.1.2 | Create/adapt/modify/extend tools and techniques to solve engineering problems                                                                                                            |
+| 5.2 | Demonstrate an ability to select and apply discipline-specific tools, techniques and resources                   | 5.2.1 | Identify the strengths and limitations of tools for (i) acquiring information, (ii) modeling and simulating, (iii) monitoring system performance, and (iv) creating engineering designs. |
+|     |                                                                                                                  | 5.2.2 | Demonstrate proficiency in using discipline-specific tools                                                                                                                               |
+|     |                                                                                                                  |       | Demonstrate proficiency in using tools                                                                                                                                                   |
+|     | Demonstrate an ability to select and apply appropriate tools, techniques and resources                           |       |                                                                                                                                                                                          |
+| 5.3 | Demonstrate an ability to evaluate the suitability and limitations of tools used to solve an engineering problem | 5.3.1 | Discuss limitations and validate tools, techniques and resources                                                                                                                         |
+|     |                                                                                                                  | 5.3.2 | Verify the credibility of results from tool use with reference to the accuracy and limitations, and the assumptions inherent in their use                                                |
+
+PO6: *Engineer and society*: Apply reasoning informed by the contextual
+   knowledge to assess societal, health, safety, legal and cultural
+   issues and the consequent responsibilities relevant to the
+   professional engineering practice.
+|     | Competency                                                                                                                                              |       | Indicators                                                                                                                                                        |
+|-----+---------------------------------------------------------------------------------------------------------------------------------------------------------+-------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6.1 | Demonstrate an ability to describe engineering roles in a broader context, e.g. pertaining to the environment, health, safety, legal and public welfare | 6.1.1 | Identify and describe various engineering roles; particularly as pertains to protection of the public and public interest at the global, regional and local level |
+|     |                                                                                                                                                         |       | Design applications addressing cultural, safety, legal, health and societal issues                                                                                |
+| 6.2 | Demonstrate an understanding of professional engineering regulations, legislation and standards                                                         | 6.2.1 | Interpret legislation, regulations, codes, and standards relevant to your discipline and explain its contribution to the protection of the public                 |
+
+PO7: *Environment and sustainability*: Understand the impact of the
+professional engineering solutions in societal and environmental
+contexts, and demonstrate the knowledge of, and need for sustainable
+development.
+|     | Competency                                                                                                                           |       | Indicators                                                                                                                              |
+|-----+--------------------------------------------------------------------------------------------------------------------------------------+-------+-----------------------------------------------------------------------------------------------------------------------------------------|
+| 7.1 | Demonstrate an understanding of the impact of engineering and industrial practices on social, environmental and in economic contexts | 7.1.1 | Identify risks/impacts in the life-cycle of an engineering product or activity                                                          |
+|     |                                                                                                                                      | 7.1.2 | Understand the relationship between the technical, socio-economic and environmental dimensions of sustainability                        |
+| 7.2 | Demonstrate an ability to apply principles of sustainable design and development                                                     | 7.2.1 | Describe management techniques for sustainable development                                                                              |
+|     |                                                                                                                                      | 7.2.2 | Apply principles of preventive engineering and sustainable development to an engineering activity or product relevant to the discipline |
+
+PO8: *Ethics*: Apply ethical principles and commit to professional
+ethics and responsibilities and norms of the engineering practice.
+|     | Competency                                           |       | Indicators                                                                             |
+|-----+------------------------------------------------------+-------+----------------------------------------------------------------------------------------|
+| 8.1 | Demonstrate an ability to recognize ethical dilemmas | 8.1.1 | Identify situations of unethical professional conduct and propose ethical alternatives |
+| 8.2 | Demonstrate an ability to apply the Code of Ethics   | 8.2.1 | Identify tenets of the ASME professional code of ethics                                |
+|     |                                                      | 8.2.2 | Examine and apply moral & ethical principles to known case studies                     |
+
+PO9: *Individual and teamwork*: Function effectively as an individual,
+and as a member or leader in diverse teams, and in multidisciplinary
+settings.
+|     | Competency                                                                                                                       |       | Indicators                                                                                                                |
+|-----+----------------------------------------------------------------------------------------------------------------------------------+-------+---------------------------------------------------------------------------------------------------------------------------|
+| 9.1 | Demonstrate an ability to form a team and define a role for each member                                                          | 9.1.1 | Recognize a variety of working and learning preferences; appreciate the value of diversity on a team                      |
+|     |                                                                                                                                  | 9.1.2 | Implement the norms of practice (e.g. rules, roles, charters, agendas, etc.) of effective team work, to accomplish a goal |
+| 9.2 | Demonstrate effective individual and team operations-- communication, problem-solving, conflict resolution and leadership skills | 9.2.1 | Demonstrate effective communication, problem-solving, conflict resolution and leadership skills                           |
+|     |                                                                                                                                  | 9.2.2 | Treat other team members respectfully                                                                                     |
+|     |                                                                                                                                  | 9.2.3 | Listen to other members                                                                                                   |
+|     |                                                                                                                                  | 9.2.4 | Maintain composure in difficult situations                                                                                |
+| 9.3 | Demonstrate success in a team-based project                                                                                      | 9.3.1 | Present results as a team, with smooth integration of contributions from all individual efforts                           |
+
+PO10: *Communication*: Communicate effectively on complex engineering
+    activities with the engineering community and with society at
+    large, such as being able to comprehend and write effective
+    reports and design documentation, make effective presentations,
+    and give and receive clear instructions.
+|      | Competency                                                                          |        | Indicators                                                                                                |
+|------+-------------------------------------------------------------------------------------+--------+-----------------------------------------------------------------------------------------------------------|
+| 10.1 | Demonstrate an ability to comprehend technical literature and document project work | 10.1.1 | Read, understand and interpret technical and non-technical information                                    |
+|      |                                                                                     | 10.1.2 | Produce clear, well-constructed, and well-supported written engineering documents                         |
+|      |                                                                                     | 10.1.3 | Create flow in a document or presentation  a logical progression of ideas so that the main point is clear |
+| 10.2 | Demonstrate competence in listening, speaking, and presentation                     | 10.2.1 | Listen to and comprehend information, instructions, and viewpoints of others                              |
+|      |                                                                                     | 10.2.2 | Deliver effective oral presentations to technical and non-technical audiences                             |
+| 10.3 | Demonstrate the ability to integrate different modes of communication               | 10.3.1 | Create engineering-standard figures, reports and drawings to complement writing and presentations         |
+|      |                                                                                     | 10.3.2 | Use a variety of media effectively to convey a message in a document or a presentation                    |
+
+PO11: *Project management and finance*: Demonstrate knowledge and
+understanding of the engineering and management principles and apply
+these to one's own work, as a member and leader in a team, to manage
+projects and in multidisciplinary environments.
+|      | Competency                                                                                                           |        | Indicators                                                                                                         |
+|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
+| 11.1 | Demonstrate an ability to evaluate the economic and financial performance of an engineering activity                 | 11.1.1 | Describe various economic and financial costs/benefits of an engineering activity                                  |
+|      |                                                                                                                      | 11.1.2 | Analyze different forms of financial statements to evaluate the financial status of an engineering project         |
+| 11.2 | Demonstrate an ability to compare and contrast the costs/benefits of alternate proposals for an engineering activity | 11.2.1 | Analyze and select the most appropriate proposal based on economic and financial considerations                    |
+| 11.3 | Demonstrate an ability to plan/manage an engineering activity within time and budget constraints                     | 11.3 1 | Identify the tasks required to complete an engineering activity, and the resources required to complete the tasks. |
+|      |                                                                                                                      | 11.3 2 | Use project management tools to schedule an engineering project, so it is completed on time and on budget.         |
+
+PO12: *Life-long learning*: Recognize the need for and have the
+preparation and ability to engage in independent and life-long
+learning in the broadest context of technological change.
+|      | Competency                                                                                                           |        | Indicators                                                                                                         |
+|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
+| 12.1 | Demonstrate an ability to identify gaps in knowledge and a strategy to close these gaps  | 12.1.1 | Describe the rationale for the requirement for continuing professional development                                                      |
+|      |                                                                                          | 12.1.1 | Identify deficiencies or gaps in knowledge and demonstrate an ability to source information to close this gap                           |
+| 12.2 | Demonstrate an ability to identify changing trends in engineering knowledge and practice | 12.2.1 | Identify historic points of technological advance in engineering that required practitioners to seek education in order to stay current |
+|      |                                                                                          | 12.2.2 | Recognize the need and be able to clearly explain why it is vitally important to keep current regarding new developments in your field  |
+| 12.3 | Demonstrate an ability to identify and access sources for new information                | 12.3.1 | Source and comprehend technical literature and other credible sources of information                                                    |
+|      |                                                                                          | 12.3.2 | Analyze sourced technical and popular information for feasibility, viability, sustainability, etc.                                      |
+
+PSO1: Investigate challenging problems across various domains with
+appropriate computational techniques, construct solutions
+systematically and evaluate their effectiveness.
+|      | Competency                                                                                                           |        | Indicators                                                                                                         |
+|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
+| 13.1 | Demonstrate the ability to investigate challenging problems            | 13.1.1 | Identify challenging problems in various domains                                                 |
+|      |                                                                        | 13.1.2 | Formulate computational problems                                                                 |
+| 13.2 | Demonstrate the ability to  apply appropriate computational techniques | 13.2.1 | Choose suitable computational techniques                                                         |
+|      |                                                                        | 13.2.2 | Investigate alternative computational techniques and select the suitable one for problem solving |
+| 13.3 | Demonstrate the ability to design solutions systematically             | 13.3.1 | Apply fundamentals of problem solving                                                            |
+|      |                                                                        | 13.3.2 | Design solutions in a modular way                                                                |
+| 13.4 | Demonstrate the ability to evaluate the effectiveness of solutions     | 13.4.1 | Analyse the effectiveness of solutions                                                           |
+|      |                                                                        | 13.4.2 | Apply tools and validation methods to evaluate the solutions                                     |
+
+PSO2: Apply software engineering principles and practices for building
+high quality software systems using contemporary computing paradigms.
+|      | Competency                                                                                                           |        | Indicators                                                                                                         |
+|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
+| 14.1 | Demonstrate the ability to develop software using sound principles and practices          | 14.1.1 | Conduct feasibility analysis and cost-benefit analysis                          |
+|      |                                                                                           | 14.1.2 | Apply different design methods in software development                          |
+|      |                                                                                           | 14.1.3 | Evolve a process for each activity and document                                 |
+| 14.2 | Demonstrate the ability to follow the quality measures                                    | 14.2.1 | Verify the correctness of systems                                               |
+|      |                                                                                           | 14.2.2 | Apply best practices to improve the quality of development and testing activity |
+| 14.3 | Demonstrate the ability to target the software development to various computing paradigms | 14.3.1 | Develop software for web / mobile / client-server paradigms                     |
+|      |                                                                                           | 14.3.2 | Design software for cloud / embedded / IoT/ real time systems                   |
+
+PSO3: Adopt emerging information processing technologies for producing
+innovative solutions to current societal problems.
+|      | Competency                                                                                                           |        | Indicators                                                                                                         |
+|------+----------------------------------------------------------------------------------------------------------------------+--------+--------------------------------------------------------------------------------------------------------------------|
+| 15.1 | Demonstrate the ability to acquire knowledge of new information processing technologies | 15.1.1 | Identify emerging technologies                                    |   |   | 15.1.2 | Adopt emerging technologies and techniques for solving existing problems |
+| 15.2 | Demonstrate the ability to innovate solutions                                           | 15.2.1 | Create novel solutions for problems                               |   |   |        |                                                                          |
+|      |                                                                                         | 15.2.2 | Evolve optimal solutions for problems                             |   |   |        |                                                                          |
+| 15.3 | Demonstrate and understand the concern for societal problems                            | 15.3.1 | Identify socially relevant problems                               |   |   |        |                                                                          |
+|      |                                                                                         | 15.3.2 | Develop solutions for current and future scenarios in the society |   |   |        |                                                                          |
